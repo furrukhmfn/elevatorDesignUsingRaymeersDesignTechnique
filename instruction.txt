@@ -1,0 +1,4 @@
+This is a simple code with basic approximations for the elevator design for an aircraft using Raymeers design technique.
+
+
+Feel free to message me to ask any question.
